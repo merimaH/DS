@@ -14,7 +14,7 @@ Item
 		qm_BorderCornerRadius: 0
 		qm_BorderWidth: 1
 		qm_BorderColor: "#ffffffff"
-		qm_ImageID: 42
+		qm_ImageID: 34
 		qm_TileTop: 2
 		qm_TileBottom: 2
 		qm_TileRight: 2
@@ -31,7 +31,7 @@ Item
 		qm_AlarmTextHeight: 14
 		qm_TextColor: "#ffffffff"
 		visible: false
-		qm_GraphicImageID : 40
+		qm_GraphicImageID : 32
 		Component.onCompleted:
 		{
 			proxy.initProxy(q419430400,419430400)
@@ -73,8 +73,8 @@ Item
 		modalityHeight: 50
 		IGuiGraphicButton
 		{
-			id: q486539300
-			objId: 486539300
+			id: q486539296
+			objId: 486539296
 			x: 405
 			y: 0
 			width: 25
@@ -101,11 +101,11 @@ Item
 			qm_FocusWidth: 1
 			qm_FocusColor: "#ff79cdcd"
 			qm_Streached :false
-			qm_GraphicImageID :29
+			qm_GraphicImageID :21
 			qm_ContentVisibility : false
 			Component.onCompleted:
 			{
-				proxy.initProxy(q486539300,486539300)
+				proxy.initProxy(q486539296,486539296)
 			}
 		}
 		IGuiAlarmView
@@ -121,7 +121,7 @@ Item
 			qm_BorderCornerRadius: 0
 			qm_BorderWidth: 0
 			qm_BorderColor: "#ff000000"
-			qm_ImageID: 32
+			qm_ImageID: 24
 			qm_TileTop: 0
 			qm_TileBottom: 0
 			qm_TileRight: 0
@@ -136,17 +136,17 @@ Item
 				width: 428
 				height: 150
 				totalColumnWidth: 404
-				qm_leftImageID: 33
+				qm_leftImageID: 25
 				qm_leftTileTop: 9
 				qm_leftTileBottom: 9
 				qm_leftTileRight: 2
 				qm_leftTileLeft: 4
-				qm_middleImageID: 34
+				qm_middleImageID: 26
 				qm_middleTileTop: 9
 				qm_middleTileBottom: 9
 				qm_middleTileRight: 2
 				qm_middleTileLeft: 2
-				qm_rightImageID: 35
+				qm_rightImageID: 27
 				qm_rightTileTop: 9
 				qm_rightTileBottom: 9
 				qm_rightTileRight: 4
@@ -266,8 +266,8 @@ Item
 			}
 			IGuiGraphicButton
 			{
-				id: q486539301
-				objId: 486539301
+				id: q486539297
+				objId: 486539297
 				x: 2
 				y: 162
 				width: 44
@@ -277,7 +277,7 @@ Item
 				qm_BorderCornerRadius: 3
 				qm_BorderWidth: 1
 				qm_BorderColor: "#ff9c9aa5"
-				qm_ImageID: 36
+				qm_ImageID: 28
 				qm_TileTop: 15
 				qm_TileBottom: 15
 				qm_TileRight: 5
@@ -294,17 +294,17 @@ Item
 				qm_FocusWidth: 2
 				qm_FocusColor: "#ff94b6e7"
 				qm_Streached :false
-				qm_GraphicImageID :30
+				qm_GraphicImageID :22
 				qm_ContentVisibility : false
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539301,486539301)
+					proxy.initProxy(q486539297,486539297)
 				}
 			}
 			IGuiGraphicButton
 			{
-				id: q486539302
-				objId: 486539302
+				id: q486539298
+				objId: 486539298
 				x: 382
 				y: 162
 				width: 44
@@ -314,7 +314,7 @@ Item
 				qm_BorderCornerRadius: 3
 				qm_BorderWidth: 1
 				qm_BorderColor: "#ff9c9aa5"
-				qm_ImageID: 36
+				qm_ImageID: 28
 				qm_TileTop: 15
 				qm_TileBottom: 15
 				qm_TileRight: 5
@@ -331,11 +331,11 @@ Item
 				qm_FocusWidth: 2
 				qm_FocusColor: "#ff94b6e7"
 				qm_Streached :false
-				qm_GraphicImageID :31
+				qm_GraphicImageID :23
 				qm_ContentVisibility : false
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539302,486539302)
+					proxy.initProxy(q486539298,486539298)
 				}
 			}
 			Component.onCompleted:
@@ -384,8 +384,8 @@ Item
 		modalityHeight: 50
 		IGuiGraphicButton
 		{
-			id: q486539303
-			objId: 486539303
+			id: q486539299
+			objId: 486539299
 			x: 405
 			y: 0
 			width: 25
@@ -412,11 +412,11 @@ Item
 			qm_FocusWidth: 1
 			qm_FocusColor: "#ff79cdcd"
 			qm_Streached :false
-			qm_GraphicImageID :37
+			qm_GraphicImageID :29
 			qm_ContentVisibility : false
 			Component.onCompleted:
 			{
-				proxy.initProxy(q486539303,486539303)
+				proxy.initProxy(q486539299,486539299)
 			}
 		}
 		IGuiAlarmView
@@ -432,7 +432,7 @@ Item
 			qm_BorderCornerRadius: 0
 			qm_BorderWidth: 0
 			qm_BorderColor: "#ff000000"
-			qm_ImageID: 32
+			qm_ImageID: 24
 			qm_TileTop: 0
 			qm_TileBottom: 0
 			qm_TileRight: 0
@@ -447,17 +447,17 @@ Item
 				width: 428
 				height: 150
 				totalColumnWidth: 404
-				qm_leftImageID: 33
+				qm_leftImageID: 25
 				qm_leftTileTop: 9
 				qm_leftTileBottom: 9
 				qm_leftTileRight: 2
 				qm_leftTileLeft: 4
-				qm_middleImageID: 34
+				qm_middleImageID: 26
 				qm_middleTileTop: 9
 				qm_middleTileBottom: 9
 				qm_middleTileRight: 2
 				qm_middleTileLeft: 2
-				qm_rightImageID: 35
+				qm_rightImageID: 27
 				qm_rightTileTop: 9
 				qm_rightTileBottom: 9
 				qm_rightTileRight: 4
@@ -577,8 +577,8 @@ Item
 			}
 			IGuiGraphicButton
 			{
-				id: q486539304
-				objId: 486539304
+				id: q486539300
+				objId: 486539300
 				x: 2
 				y: 162
 				width: 44
@@ -588,7 +588,7 @@ Item
 				qm_BorderCornerRadius: 3
 				qm_BorderWidth: 1
 				qm_BorderColor: "#ff9c9aa5"
-				qm_ImageID: 36
+				qm_ImageID: 28
 				qm_TileTop: 15
 				qm_TileBottom: 15
 				qm_TileRight: 5
@@ -605,17 +605,17 @@ Item
 				qm_FocusWidth: 2
 				qm_FocusColor: "#ff94b6e7"
 				qm_Streached :false
-				qm_GraphicImageID :38
+				qm_GraphicImageID :30
 				qm_ContentVisibility : false
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539304,486539304)
+					proxy.initProxy(q486539300,486539300)
 				}
 			}
 			IGuiGraphicButton
 			{
-				id: q486539305
-				objId: 486539305
+				id: q486539301
+				objId: 486539301
 				x: 382
 				y: 162
 				width: 44
@@ -625,7 +625,7 @@ Item
 				qm_BorderCornerRadius: 3
 				qm_BorderWidth: 1
 				qm_BorderColor: "#ff9c9aa5"
-				qm_ImageID: 36
+				qm_ImageID: 28
 				qm_TileTop: 15
 				qm_TileBottom: 15
 				qm_TileRight: 5
@@ -642,11 +642,11 @@ Item
 				qm_FocusWidth: 2
 				qm_FocusColor: "#ff94b6e7"
 				qm_Streached :false
-				qm_GraphicImageID :39
+				qm_GraphicImageID :31
 				qm_ContentVisibility : false
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539305,486539305)
+					proxy.initProxy(q486539301,486539301)
 				}
 			}
 			Component.onCompleted:
@@ -695,8 +695,8 @@ Item
 		modalityHeight: 50
 		IGuiGraphicButton
 		{
-			id: q486539306
-			objId: 486539306
+			id: q486539302
+			objId: 486539302
 			x: 405
 			y: 0
 			width: 25
@@ -723,11 +723,11 @@ Item
 			qm_FocusWidth: 1
 			qm_FocusColor: "#ff79cdcd"
 			qm_Streached :false
-			qm_GraphicImageID :43
+			qm_GraphicImageID :35
 			qm_ContentVisibility : false
 			Component.onCompleted:
 			{
-				proxy.initProxy(q486539306,486539306)
+				proxy.initProxy(q486539302,486539302)
 			}
 		}
 		IGuiAlarmView
@@ -743,7 +743,7 @@ Item
 			qm_BorderCornerRadius: 0
 			qm_BorderWidth: 0
 			qm_BorderColor: "#ff000000"
-			qm_ImageID: 32
+			qm_ImageID: 24
 			qm_TileTop: 0
 			qm_TileBottom: 0
 			qm_TileRight: 0
@@ -758,17 +758,17 @@ Item
 				width: 428
 				height: 150
 				totalColumnWidth: 404
-				qm_leftImageID: 33
+				qm_leftImageID: 25
 				qm_leftTileTop: 9
 				qm_leftTileBottom: 9
 				qm_leftTileRight: 2
 				qm_leftTileLeft: 4
-				qm_middleImageID: 34
+				qm_middleImageID: 26
 				qm_middleTileTop: 9
 				qm_middleTileBottom: 9
 				qm_middleTileRight: 2
 				qm_middleTileLeft: 2
-				qm_rightImageID: 35
+				qm_rightImageID: 27
 				qm_rightTileTop: 9
 				qm_rightTileBottom: 9
 				qm_rightTileRight: 4
@@ -888,8 +888,8 @@ Item
 			}
 			IGuiGraphicButton
 			{
-				id: q486539307
-				objId: 486539307
+				id: q486539303
+				objId: 486539303
 				x: 2
 				y: 162
 				width: 44
@@ -899,7 +899,7 @@ Item
 				qm_BorderCornerRadius: 3
 				qm_BorderWidth: 1
 				qm_BorderColor: "#ff9c9aa5"
-				qm_ImageID: 36
+				qm_ImageID: 28
 				qm_TileTop: 15
 				qm_TileBottom: 15
 				qm_TileRight: 5
@@ -916,17 +916,17 @@ Item
 				qm_FocusWidth: 2
 				qm_FocusColor: "#ff94b6e7"
 				qm_Streached :false
-				qm_GraphicImageID :44
+				qm_GraphicImageID :36
 				qm_ContentVisibility : false
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539307,486539307)
+					proxy.initProxy(q486539303,486539303)
 				}
 			}
 			IGuiGraphicButton
 			{
-				id: q486539308
-				objId: 486539308
+				id: q486539304
+				objId: 486539304
 				x: 382
 				y: 162
 				width: 44
@@ -936,7 +936,7 @@ Item
 				qm_BorderCornerRadius: 3
 				qm_BorderWidth: 1
 				qm_BorderColor: "#ff9c9aa5"
-				qm_ImageID: 36
+				qm_ImageID: 28
 				qm_TileTop: 15
 				qm_TileBottom: 15
 				qm_TileRight: 5
@@ -953,11 +953,11 @@ Item
 				qm_FocusWidth: 2
 				qm_FocusColor: "#ff94b6e7"
 				qm_Streached :false
-				qm_GraphicImageID :45
+				qm_GraphicImageID :37
 				qm_ContentVisibility : false
 				Component.onCompleted:
 				{
-					proxy.initProxy(q486539308,486539308)
+					proxy.initProxy(q486539304,486539304)
 				}
 			}
 			Component.onCompleted:

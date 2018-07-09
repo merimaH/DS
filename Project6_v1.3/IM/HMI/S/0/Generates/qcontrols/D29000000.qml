@@ -65,8 +65,8 @@ IGuiDialogView
 	}
 	IGuiIOField
 	{
-		id: q33554439
-		objId: 33554439
+		id: q33554437
+		objId: 33554437
 		x: 114
 		y: 71
 		width: 141
@@ -126,8 +126,8 @@ IGuiDialogView
 	}
 	IGuiIOField
 	{
-		id: q33554440
-		objId: 33554440
+		id: q33554438
+		objId: 33554438
 		x: 114
 		y: 103
 		width: 141
@@ -158,8 +158,8 @@ IGuiDialogView
 	}
 	IGuiButton
 	{
-		id: q486539309
-		objId: 486539309
+		id: q486539305
+		objId: 486539305
 		x: 177
 		y: 163
 		width: 95
@@ -189,8 +189,8 @@ IGuiDialogView
 	}
 	IGuiButton
 	{
-		id: q486539310
-		objId: 486539310
+		id: q486539306
+		objId: 486539306
 		x: 81
 		y: 163
 		width: 97
@@ -220,8 +220,8 @@ IGuiDialogView
 	}
 	IGuiGraphicButton
 	{
-		id: q486539311
-		objId: 486539311
+		id: q486539307
+		objId: 486539307
 		x: 238
 		y: 0
 		width: 34
@@ -248,7 +248,7 @@ IGuiDialogView
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff55bfff"
 		qm_Streached :false
-		qm_GraphicImageID :46
+		qm_GraphicImageID :38
 		qm_ContentVisibility : false
 	}
 	IGuiQmlRectangle
